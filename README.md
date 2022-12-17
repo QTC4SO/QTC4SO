@@ -33,7 +33,7 @@ Motivation: To effectively evaluate the semantic information in the generated qu
 Here is our Criteria.
 ![](./figs/Criteria.jpg)<br>
 
-This figure shows the evaluation results<br>
+This figure shows the evaluation results.<br>
 ![](./figs/human_study.jpg)<br>
 
 ## Discussion
