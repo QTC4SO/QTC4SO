@@ -33,7 +33,7 @@ Our pre-trained model has been released on hugging face.[Please click here.](htt
 Here is our Criteria.
 ![](./figs/Criteria.jpg)<br>
 
-This figure shows the evaluation results<br>
+This figure shows the evaluation results<br><br>
 ![](./figs/human_study.jpg)<br>
 
 ## Discussion
