@@ -6,8 +6,8 @@ from tqdm import tqdm
 from transformers.models.t5 import T5ForConditionalGeneration, T5Tokenizer
 
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-model = T5ForConditionalGeneration.from_pretrained("shaoyuyoung/QTC4SO")
-tokenizer = T5Tokenizer.from_pretrained("shaoyuyoung/QTC4SO")
+model = T5ForConditionalGeneration.from_pretrained("QTC4SO/QTC4SO")
+tokenizer = T5Tokenizer.from_pretrained("QTC4SO/QTC4SO")
 model.to(DEVICE)
 
 
