@@ -49,6 +49,6 @@ The user can utilize our trained model to perform question title completion by m
 
 
 
-# Tool
+## Tool
 We developed a browser plugin tool based onQTC4So to assist developers in composing questiontitles. The video demonstration of using our tool isavailable at .<br>
 [https://www.youtube.com/watch?v=4njf4zgDdRs](https://www.youtube.com/watch?v=4njf4zgDdRs)
