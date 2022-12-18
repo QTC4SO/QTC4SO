@@ -47,3 +47,8 @@ In this section,we try to analyze the advantage of multitask learning in QTC4SO.
 [Here we provide a demo for using QTC4SO.](./model_code/demo.py)<br>
 The user can utilize our trained model to perform question title completion by modifying the `prefix`, `incomplete title`, `problem description` and `code snippet `.
 
+
+
+# Tool
+We developed a browser plugin tool based onQTC4So to assist developers in composing questiontitles. The video demonstration of using our tool isavailable at .<br>
+[https://www.youtube.com/watch?v=4njf4zgDdRs](https://www.youtube.com/watch?v=4njf4zgDdRs)
