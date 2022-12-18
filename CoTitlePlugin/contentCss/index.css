@@ -1,0 +1,32 @@
+#cj_move_page{
+    width: 400px; 
+    user-select: none; 
+    background: white; 
+    border: 1px solid; 
+    height: 400px; 
+    position: fixed; 
+    right: 0; 
+    bottom: 0; 
+    z-index: 1000001;
+}
+#cj_move_h3{
+    text-align: center; 
+    line-height: 40px; 
+    cursor: move;
+}
+.search
+        {
+            left: 0;
+            position: relative;
+        }
+ #auto_div {
+            display: none;
+            width:662px;
+            border: 1px #000000 solid;
+            background: #FFF;
+            position: absolute;
+            top: 565px;
+            left: 475px;
+	z-index:9997;
+            color: #323232;
+        }
