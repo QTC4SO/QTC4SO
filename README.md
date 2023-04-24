@@ -1,4 +1,4 @@
-# QTC4SO: Automatic Question Title Completion for Stack Overflow
+# QTC4SO: Automatic Question Title Completion for Stack Overflow.
 
 ## Introduction
 Framework of our proposed approach of QTC4SO
