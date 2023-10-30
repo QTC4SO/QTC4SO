@@ -51,3 +51,18 @@ The user can utilize our trained model to perform question title completion by m
 
 ## Tool
 We developed a [browser plugin](./CoTitlePlugin) tool based on QTC4So to assist developers in composing question titles. The video demonstration of using our tool is available at [https://www.youtube.com/watch?v=4njf4zgDdRs](https://www.youtube.com/watch?v=4njf4zgDdRs).<br>
+
+## Citation
+This paper was awarded the [🏆ACM Distinguished Paper Award by ICPC-2023](http://shaoyuyoung.com/wp-content/uploads/2023/07/ICPC-2023-Distinguished-Paper-Award-QTC4SO.jpg). If you find our work inspiring, please cite our work. Thx!
+```
+@inproceedings{zhouqtc4so,
+  title={QTC4SO: Automatic Question Title Completion for Stack Overflow}, 
+  author={Zhou, Yanlin and Yang, Shaoyu and Chen, Xiang and Zhang, Zichen and Pei, Jiahua},
+  booktitle={2023 IEEE/ACM 31st International Conference on Program Comprehension (ICPC)}, 
+  year={2023},
+  pages={1-12},
+  doi={10.1109/ICPC58990.2023.00011}
+}
+```
+
+
